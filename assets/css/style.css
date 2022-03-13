@@ -38,7 +38,7 @@ li{
     width: 1150px;
     /*margin: 0px auto;*/
     /*border: 1px solid #d2d2d2;*/
-    margin-left: 100px;
+    margin: 0px auto;
 }
 .header-flex {
     display: flex;
@@ -122,7 +122,7 @@ span.gmail {
 .business-solution-container{
     width: 1150px;
     /*border: 1px solid red;*/
-    margin-left: 100px;
+    margin: 0px auto;
 }
 .business-solution-flex {
     display: flex;
@@ -213,7 +213,7 @@ span.gmail {
 .brand-section-container{
     width: 1150px;
     /*border: 1px solid red;*/
-    margin-left: 100px;
+    margin: 0px auto;
 }
 .brand-flex{
     display: flex;
@@ -228,7 +228,7 @@ span.gmail {
 .awards-container{
     width: 1150px;
     /*border: 1px solid black;*/
-    margin-left: 100px;
+    margin: 0px auto;
 }
 .awards-flex{
     display: flex;
@@ -367,7 +367,7 @@ span.gmail {
 .bs-container{
     width: 1150px;
     /*border: 1px solid black;*/
-    margin-left: 100px;
+    margin: 0px auto;
     background-color: #fff;
 }
 .bs-title{
@@ -452,7 +452,7 @@ span.gmail {
 .sf-heading-container{
     width: 1150px;
     /*border:1px solid black;*/
-    margin-left: 100px;
+    margin: 0px auto;
     padding-bottom: 200px;
 }
 .sf-border{
@@ -523,7 +523,7 @@ span.gmail {
 .lp-container{
     width: 1150px;
     /*border: 1px solid black;*/
-    margin-left: 100px;
+    margin: 0px auto;
 }
 .lp-container h4{
     font-size: 16px;
@@ -534,7 +534,7 @@ span.gmail {
 .lp-container-1{
     width: 1150px;
     /*border: 1px solid black;*/
-    margin-left: 100px;
+    margin: 0px auto;
     margin-top: 20px;
 }
 .lp-flex{
@@ -594,7 +594,7 @@ span.gmail {
 /*projects image start*/
 .image-container{
     width: 1150px;
-    margin-left: 100px;
+    margin: 0px auto;
     margin-bottom: 100px;
 }
 /*projects image end*/
@@ -622,7 +622,7 @@ span.gmail {
 }
 .feedback-container{
     width: 1150px;
-    margin-left: 100px;
+    margin: 0px auto;
 }
 .img-content-flex {
     display: flex;
@@ -691,9 +691,9 @@ span.gmail {
 }
 .tips-container{
     width: 1100px;
-    /**border: 1px solid black;
-    margin-left: 100px;*/
-    margin-bottom: 80px;
+    /**border: 1px solid black;*/
+    margin: 0px auto;
+    padding-bottom: 50px;
 }
 .tips-container h4{
     font-size: 18px;
@@ -717,6 +717,7 @@ span.gmail {
 }
 .tips-img-container{
     width: 1100px;
+    margin: 0px auto;
 }
 .tips-img-flex{
     display: inline-block;
@@ -828,7 +829,7 @@ button:hover{
 .footer-container {
     width: 1150px;
     /*border: 1px solid black;*/
-    margin-left: 100px;
+    margin: 0px auto;
 }
 .footer-flex{
     display: flex;
